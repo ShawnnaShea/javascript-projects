@@ -1,0 +1,60 @@
+//console.log(Boolean("true"));
+//console.log(Boolean("TRUE"));
+//console.log(Boolean(0));
+//console.log(Boolean(1));
+//console.log(Boolean(''));
+//console.log(Boolean('LaunchCode'));
+
+//console.log(Boolean(3 + 4 === 7));
+
+console.log(Boolean(4 == "4"));
+
+//let x = 2
+//let y = 1
+//console.log(Boolean((x * 5) >= 10) && ((y - 6) <= 20));
+
+//console.log(Boolean((5*3) > 10) && ((4+6) === 11));
+//console.log(Boolean(5*(3 > 10)) && (4 + (6 === 11)));
+//console.log(Boolean((((5*3) > 10) && 4)+6) === 11);
+//console.log(Boolean((5*3) > (10 && (4+6))) === 11);
+
+//console.log(Boolean(4 < 3 || 2 < 3))
+
+//let num = 3
+//if (num % 2 === 0 && num > 3) {
+//    console.log(num, "is even");
+//   console.log(num, "is greater than 3");
+// }
+
+//let a = 7;
+//if (a % 2 === 1) {
+//   console.log("Launch");
+//} else if (a > 5) {
+//   console.log("Code");
+//} else {
+//   console.log("LaunchCode");
+//}
+
+//let num = 11;
+
+//if (num % 2 === 0) {
+//    console.log("EVEN");
+
+//    if (num > 0) {
+//        console.log("POSITIVE");
+//    }
+//}
+
+//let num = 0;
+
+//if (num % 2 === 0) {
+//    if (num % 2 === 1) {
+//        console.log("odd");
+//    }
+//}
+
+//if (num % 2 === 0) {
+//    if (num % 2 === 1) {
+//        console.log("odd");
+//    }
+//}
